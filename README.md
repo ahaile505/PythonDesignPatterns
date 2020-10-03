@@ -1,2 +1,2 @@
-# Python_Design_Patterns
+# Python Design Patterns
 Examples of python software design patterns
